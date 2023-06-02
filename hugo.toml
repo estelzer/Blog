@@ -1,7 +1,7 @@
 baseURL = "https://estelzer.github.io/blog/"
 languageCode = "pt-br"
 title = "Meu Blog"
-theme = "papermod"
+theme = "hugo-PaperMod"
 
 [params]
   # Configurações específicas do tema PaperMod
