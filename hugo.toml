@@ -1,0 +1,18 @@
+baseURL = "https://estelzer.github.io/blog/"
+languageCode = "pt-br"
+title = "Meu Blog"
+theme = "papermod"
+
+[params]
+  # Configurações específicas do tema PaperMod
+  # Consulte a documentação do tema para obter mais opções de configuração
+
+[[menu.main]]
+  identifier = "home"
+  name = "Início"
+  url = "/"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
